@@ -6,5 +6,7 @@ coverPhoto: https://1.bp.blogspot.com/-CX3iMYOH4nM/W7sOfcALKqI/AAAAAAAAALE/_YNPd
 ---
 
 
-![](https://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg)
+
+hola
+
 
